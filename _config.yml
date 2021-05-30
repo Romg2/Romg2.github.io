@@ -20,7 +20,7 @@ title                    : "데이터 분석"
 title_separator          : "-"
 subtitle                 : "분석을 공부하고 알아가자" # site tagline that appears below site title in masthead
 name                     : "Romg2"
-description              : "열심히 공부하자."
+description              : 
 url                      : "https://Romg2.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Romg2"
+  avatar           : "/assets/images/My_profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "열심히 공부하자."
+  location         : "Seoul, South Korea"
+  email            : "sclown330@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Romg2"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
