@@ -1,5 +1,5 @@
 ---
-title: "나도코딩"
+title: "데이터 사이언스 스쿨"
 layout: archive
 permalink: categories/dss
 author_profile: true

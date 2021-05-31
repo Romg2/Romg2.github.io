@@ -1,5 +1,5 @@
 ---
-title: "나도코딩"
+title: "SQL"
 layout: archive
 permalink: categories/SQL
 author_profile: true
