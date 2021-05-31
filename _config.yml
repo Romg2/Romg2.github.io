@@ -281,8 +281,7 @@ defaults:
       comments: true # 블로그 댓글 기능 true
       share: true
       related: true
-      toc_ads: true
-      toc_sticky: true
+      sidebar_main: true
 
   # _pages
   - scope:
