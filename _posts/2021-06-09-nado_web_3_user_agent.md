@@ -1,6 +1,6 @@
 ---
 title: "[Python] 나도코딩 웹 스크래핑편 - (3) User-Agent"
-excerpt: "정규식 패키지 re"
+excerpt: "User-Agent"
 categories: 
   - 나도코딩
 tags: Python, 나도코딩
