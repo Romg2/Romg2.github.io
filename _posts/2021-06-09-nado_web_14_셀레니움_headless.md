@@ -166,7 +166,7 @@ Image("C:/Users/ekzm3/Desktop/Github_kkd/Github_blog/assets/images/post_images/2
 
 
     
-![png](../assets/images/post_images/2021-06-09-nado_web_14/output_7_0.png)
+![output_7_0](https://user-images.githubusercontent.com/82348484/121332948-4ad6ed00-c953-11eb-9d58-a6d362d211c0.png)
 
 
 
