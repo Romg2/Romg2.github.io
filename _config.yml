@@ -277,7 +277,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false   # 블로그를 읽는데 소요시간 표시
+      show_date: true    # 포스팅 날짜 표시
       comments: true # 블로그 댓글 기능 true
       share: true
       related: true
@@ -290,7 +291,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: false   # 블로그를 읽는데 소요시간 표시
+      show_date: true    # 포스팅 날짜 표시
       comments: false
       share: true
       related: false
