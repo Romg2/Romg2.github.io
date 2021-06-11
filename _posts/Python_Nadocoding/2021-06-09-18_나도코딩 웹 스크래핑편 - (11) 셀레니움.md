@@ -6,6 +6,7 @@ categories:
 tags: 
     - Python
     - 나도코딩
+    - "웹 스크래핑"
 # toc: TRUE
 # toc_sticky: TRUE
 use_math: TRUE
