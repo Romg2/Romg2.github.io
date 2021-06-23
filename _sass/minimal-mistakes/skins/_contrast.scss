@@ -9,13 +9,14 @@ $primary-color: #a3a3a3 !default;
 /* $primary-color: #ff0000 !default; */
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
-$link-color: #a3a3a3 !default;
+$link-color: #40E0D0 !default;
 /* $link-color: #0000ff !default; */
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 /* contrast syntax highlighting (base16) */
+/* 디폴트 색상
 $base00: #000000 !default;
 $base01: #242422 !default;
 $base02: #484844 !default;
@@ -31,7 +32,24 @@ $base0b: #a8ff60 !default;
 $base0c: #c6c5fe !default;
 $base0d: #96cbfe !default;
 $base0e: #ff73fd !default;
-$base0f: #b18a3d !default;
+$base0f: #b18a3d !default; */
+
+$base00: #002635 !default;
+$base01: #2e3c43 !default;
+$base02: #314549 !default;
+$base03: #546e7a !default;
+$base04: #b2ccd6 !default;
+$base05: #eeffff !default;
+$base06: #eeffff !default;
+$base07: #ffffff !default;
+$base08: #f07178 !default;
+$base09: #f78c6c !default;
+$base0a: #ffcb6b !default;
+$base0b: #c3e88d !default;
+$base0c: #89ddff !default;
+$base0d: #82aaff !default;
+$base0e: #c792ea !default;
+$base0f: #ff5370 !default;
 
 .page__content {
   .notice,
