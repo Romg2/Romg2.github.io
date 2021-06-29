@@ -41,7 +41,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "SQL" %}
-                        <li><a href="/categories/SQL" class="">[SQL] SQL ({{category[1].size}})</a></li>
+                        <li><a href="/categories/SQL" class="">[SQL] 초보자를 위한 SQL ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
