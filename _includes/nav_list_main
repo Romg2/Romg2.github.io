@@ -45,6 +45,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "DL_suan" %}
+                        <li><a href="/categories/DL_suan" class="">이수안 딥러닝 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <!-- SQL 카테고리 -->
         <span class="nav__sub-title">SQL</span>
             <ul>
