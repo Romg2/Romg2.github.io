@@ -1,5 +1,5 @@
 ---
-title: "이수안 딥러닝"
+title: "모두의 딥러닝"
 layout: archive
 permalink: categories/DL_all
 author_profile: true
