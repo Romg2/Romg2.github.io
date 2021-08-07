@@ -52,6 +52,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "else" %}
+                        <li><a href="/categories/else" class="">임시 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <!-- SQL 카테고리 -->
         <span class="nav__sub-title">SQL</span>
             <ul>
