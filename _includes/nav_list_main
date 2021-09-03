@@ -74,6 +74,14 @@
                         <li><a href="/categories/SQL" class="">초보자를 위한 SQL ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
+        <!-- OPGG 카테고리 -->
+        <span class="nav__sub-title">OPGG</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "OPGG" %}
+                        <li><a href="/categories/OPGG" class="">데이터 분석가 과정 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
             </ul>
       </li>
   </ul>
