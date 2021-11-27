@@ -83,6 +83,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "OPGG_Part" %}
+                        <li><a href="/categories/OPGG_Part" class="">인턴 연계 과정 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
