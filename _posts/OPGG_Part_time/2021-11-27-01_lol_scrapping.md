@@ -33,11 +33,11 @@ use_math: TRUE
 
 한국 뿐 아니라 여러 리그의 경기 정보가 담겨있는 사이트입니다.
 
-![](../../_posts/OPGG_Part_time/2021-11-27-01/qwergg.png)
+![](https://github.com/Romg2/Romg2.github.io/blob/master/_posts/OPGG_Part_time/2021-11-27-01/qwergg.PNG?raw=true)
 
 - 홈페이지 상단에 LCK, LPL등 다양한 리그가 있습니다.
 
-![](../../_posts/OPGG_Part_time/2021-11-27-01/lck.png)
+![](https://github.com/Romg2/Romg2.github.io/blob/master/_posts/OPGG_Part_time/2021-11-27-01/lck.PNG?raw=true)
 
 - LCK를 클릭했을 때 모습입니다.
 
@@ -47,7 +47,7 @@ use_math: TRUE
 
 - 사진에는 보이지 않지만 경기 결과 하단에는 `더보기` 버튼이 있어 이전 경기 결과도 확인 가능합니다.
 
-![](../../_posts/OPGG_Part_time/2021-11-27-01/result.png)
+![](https://github.com/Romg2/Romg2.github.io/blob/master/_posts/OPGG_Part_time/2021-11-27-01/result.PNG?raw=true)
 
 - 경기를 클릭하면 다음과 같이 상세 정보가 나타납니다.
 
